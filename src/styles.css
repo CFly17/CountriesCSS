@@ -1,0 +1,23 @@
+/* You can add global styles to this file, and also import other style files */
+
+.flag {
+  width: 300px;
+  height: auto;
+}
+
+.country {
+  border: 2px solid black;
+  border-radius: 10%;
+  margin: 5%;
+  padding: 5%;
+  display: flex;
+  flex-direction: row;
+}
+
+.post {
+  border: rgb(112, 27, 27) 3px solid;
+  border-radius: 5px;
+  font-family: monospace;
+  background-color: rgb(94, 119, 141);
+  text-align: center;
+}
